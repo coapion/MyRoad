@@ -1,4 +1,4 @@
 MyRoad
 ======
 
-My personalized route
+My personalized route that contains information on the route.
